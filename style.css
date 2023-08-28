@@ -1,0 +1,48 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.link{
+  margin-top: 10px;
+  margin-bottom: 30px;
+}
+h2{
+  margin-top: 5px;
+  margin-bottom: 30px;
+}
+.paragraph{
+  color: green;
+  font-weight: bold;
+  font-size: larger;
+}
+.secondpara{
+  margin-top: 30px;
+  font-size: large;
+  color: black;
+}
+.btn{
+  margin-top: 30px;
+}
+.cart{
+  margin-left: 10px;
+  margin-right: 15px;
+  height: 30px;
+  width: 110px;
+  border-style: none;
+  background-color: rgb(241, 209, 25);
+  color: black;
+  font-weight: bold;
+  border-radius: 15px;
+  cursor: pointer;
+}
+.buy{
+  margin-right: 15px;
+  height: 30px;
+  width: 110px;
+  border-style: none;
+  background-color: rgb(249, 158, 11);
+  color: black;
+  font-weight: bold;
+  border-radius: 15px;
+  cursor: pointer;
+}
